@@ -1,3 +1,10 @@
+/***
+ * @file: Proj4.java
+ * @description: This code inserts, searches, and deletes objects into a hash and shows the runtime for each process
+ * @author: Douglas Otton
+ * @date: December 5, 2024
+ ***/
+
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
