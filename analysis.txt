@@ -1,0 +1,74 @@
+Runtimes for 64 sorted movies:
+Insert runtime:	6.2916E-5 seconds
+Search runtime:	2.8375E-5 seconds
+Remove runtime:	4.2375E-5 seconds
+
+Runtimes for 64 shuffled movies:
+Insert runtime:	4.6708E-5 seconds
+Search runtime:	2.5125E-5 seconds
+Remove runtime:	3.4084E-5 seconds
+
+Runtimes for 64 reversed movies:
+Insert runtime:	3.0958E-5 seconds
+Search runtime:	1.1E-5 seconds
+Remove runtime:	1.9041E-5 seconds
+
+Runtimes for 128 sorted movies:
+Insert runtime:	2.82042E-4 seconds
+Search runtime:	6.5625E-5 seconds
+Remove runtime:	8.6167E-5 seconds
+
+Runtimes for 128 shuffled movies:
+Insert runtime:	5.3667E-5 seconds
+Search runtime:	2.0292E-5 seconds
+Remove runtime:	3.925E-5 seconds
+
+Runtimes for 128 reversed movies:
+Insert runtime:	4.2708E-5 seconds
+Search runtime:	3.3917E-5 seconds
+Remove runtime:	3.9709E-5 seconds
+
+Runtimes for 256 sorted movies:
+Insert runtime:	6.59875E-4 seconds
+Search runtime:	1.05125E-4 seconds
+Remove runtime:	8.2458E-5 seconds
+
+Runtimes for 256 shuffled movies:
+Insert runtime:	3.825E-5 seconds
+Search runtime:	4.5125E-5 seconds
+Remove runtime:	7.7167E-5 seconds
+
+Runtimes for 256 reversed movies:
+Insert runtime:	3.3083E-5 seconds
+Search runtime:	3.4916E-5 seconds
+Remove runtime:	4.1959E-5 seconds
+
+Runtimes for 512 sorted movies:
+Insert runtime:	9.8725E-4 seconds
+Search runtime:	1.075E-4 seconds
+Remove runtime:	1.53791E-4 seconds
+
+Runtimes for 512 shuffled movies:
+Insert runtime:	6.2667E-5 seconds
+Search runtime:	8.2292E-5 seconds
+Remove runtime:	1.28791E-4 seconds
+
+Runtimes for 512 reversed movies:
+Insert runtime:	6.0958E-5 seconds
+Search runtime:	6.175E-5 seconds
+Remove runtime:	7.3166E-5 seconds
+
+Runtimes for 1000 sorted movies:
+Insert runtime:	0.002815916 seconds
+Search runtime:	2.05833E-4 seconds
+Remove runtime:	2.95458E-4 seconds
+
+Runtimes for 1000 shuffled movies:
+Insert runtime:	1.21375E-4 seconds
+Search runtime:	1.10958E-4 seconds
+Remove runtime:	1.23041E-4 seconds
+
+Runtimes for 1000 reversed movies:
+Insert runtime:	1.0875E-4 seconds
+Search runtime:	1.10625E-4 seconds
+Remove runtime:	1.20375E-4 seconds
